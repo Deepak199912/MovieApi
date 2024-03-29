@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-26T07:07:30Z" name="Default suite" finished-at="2024-03-26T07:07:31Z" duration-ms="1508">
+    <groups>
+    </groups>
+    <test started-at="2024-03-26T07:07:30Z" name="Default test" finished-at="2024-03-26T07:07:31Z" duration-ms="1508">
+      <class name="com.example.ControllerTest.BookingControllerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.ControllerTest.BookingControllerTest@1aafa419]" started-at="2024-03-26T12:37:30Z" name="setUp" finished-at="2024-03-26T12:37:31Z" duration-ms="1342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCreateNewBooking_DuplicateId()[pri:0, instance:com.example.ControllerTest.BookingControllerTest@1aafa419]" started-at="2024-03-26T12:37:31Z" name="testCreateNewBooking_DuplicateId" finished-at="2024-03-26T12:37:31Z" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateNewBooking_DuplicateId -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.ControllerTest.BookingControllerTest@1aafa419]" started-at="2024-03-26T12:37:31Z" name="setUp" finished-at="2024-03-26T12:37:31Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCreateNewBooking_Successful()[pri:0, instance:com.example.ControllerTest.BookingControllerTest@1aafa419]" started-at="2024-03-26T12:37:31Z" name="testCreateNewBooking_Successful" finished-at="2024-03-26T12:37:31Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateNewBooking_Successful -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.ControllerTest.BookingControllerTest@1aafa419]" started-at="2024-03-26T12:37:31Z" name="setUp" finished-at="2024-03-26T12:37:31Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGetAllBookings()[pri:0, instance:com.example.ControllerTest.BookingControllerTest@1aafa419]" started-at="2024-03-26T12:37:31Z" name="testGetAllBookings" finished-at="2024-03-26T12:37:31Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllBookings -->
+      </class> <!-- com.example.ControllerTest.BookingControllerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
